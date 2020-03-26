@@ -1,0 +1,36 @@
+Sounds good, go ahead
+
+
+Sudarshan
+
+
+
+ECOMMERCE WEBSITE AND ANDROID APP (ABSTRACT)
+ 
+MOTIVATION
+From the very first year, we have observed that the insti lacks a robust system to supply the students with fresh fruits and milk (other than that provided by the mess). This is a serious issue considering that students in this phase need essential nutrients for proper body growth. Most of the students are involved in some kind of physical activities. That makes it even more important. There are fruit shops but due to the hectic insti life :P, students refrain from visiting these suppliers of delicacies. We plan to bring these to the reach of everyone by providing an online platform to connect the suppliers to the buyers.
+
+IMPLEMENTATION
+There’s already a website (www.cravy.in) that exists to serve this purpose. However, there are certain issues that need to be resolved with it. As an example, cravy platform accepts orders only during certain predefined time intervals. Some of the prominent features to be implemented:
+1. Separate portals for the consumers and suppliers
+2. Payment portal for suppliers
+3. Social authentication
+4. Monthly and weekly plans for the consumers
+5. Time table preference for the user i.e. User chooses what fruits are to be delivered on what day of the week
+6. Compatible android app to be available on PlayStore We plan to solve such issues and come up with an online store (say, InStore - The Insti Store).
+
+BACKEND - Django web-framework and PHP along with Postgres database
+
+FRONTEND - Angular, React, Java (Android-studio)
+
+TEAM-MEMBERS
+● 170050031 SHASHANK KUMAR
+● 170050017 NIKHIL R. CHAVANKE
+● 170050023 AKSHAY YADAV
+● 170050032 KRISHNA YADAV
+● 170050056 RITIK ROONGTA
+
+FURTHER SCALING THE APP
+There can be added features like:
+1. A wallet system (something similar to the paytm wallet).
+2. Making it available to people outside Insti

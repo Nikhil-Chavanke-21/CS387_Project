@@ -1,0 +1,14 @@
+{% extends 'home/base.html' %}
+
+{% block content %}
+
+<h2>Welcome <a href="{% url 'home:profile' %}">{{ user }}</a></h2>
+
+<p>EMAIL: {{ user.email }}</p>
+<p>FIRST: {{ user.firstname }}</p>
+<p>LAST: {{ user.lastname }}</p>
+<p>DOB: {{ user.dateOfBirth }}</p>
+
+<a href="{% url 'users:logout' %}">Signout</a>
+
+{% endblock content %}
